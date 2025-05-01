@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: kitty-jekyll
+description: "kitty-jekyll is s jekyll theme that revolves around the world of cats! I love cats, which is why I thought cats would make a great jekyll theme!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
